@@ -1,0 +1,1 @@
+This is a magzine of ramgarh engineering college created by our team in college program the website is made using html and css where we introduced feedback section in which the visitor can give his feedback and the website will further be updated according to multiple feedbacks.
